@@ -1,5 +1,7 @@
 # 5 Serbestlik Dereceli (5-DOF) Robot Kol Simülasyonu
 
+> **Language / Dil:** [🇹🇷 Türkçe](#5-serbestlik-dereceli-5-dof-robot-kol-simülasyonu) | [🇬🇧 English](#english-version)
+
 ## İçindekiler
 1. [Proje Genel Bakış](#1-proje-genel-bakış)
 2. [Kinematik Yapı ve Eklem Konfigürasyonu](#2-kinematik-yapı-ve-eklem-konfigürasyonu)
@@ -1085,7 +1087,11 @@ I: Anında git       Y: Yumuşak git
 
 ---
 
+<a id="english-version"></a>
+
 # 5 Degrees of Freedom (5-DOF) Robot Arm Simulation
+
+> **Language / Dil:** [🇹🇷 Türkçe](#5-serbestlik-dereceli-5-dof-robot-kol-simülasyonu) | [🇬🇧 English](#english-version)
 
 ## Table of Contents
 1. [Project Overview](#1-project-overview)
