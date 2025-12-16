@@ -1,0 +1,12 @@
+C:\Users\kutay\Desktop\RobotikOdev\RobotArm5DOF\RobotArm5DOF\obj\Debug\RobotArm5DOF.csproj.AssemblyReference.cache
+C:\Users\kutay\Desktop\RobotikOdev\RobotArm5DOF\RobotArm5DOF\obj\Debug\RobotArm5DOF.csproj.SuggestedBindingRedirects.cache
+C:\Users\kutay\Desktop\RobotikOdev\RobotArm5DOF\RobotArm5DOF\obj\Debug\RobotArm5DOF.csproj.CoreCompileInputs.cache
+C:\Users\kutay\Desktop\RobotikOdev\RobotArm5DOF\RobotArm5DOF\bin\Debug\RobotArm5DOF.exe.config
+C:\Users\kutay\Desktop\RobotikOdev\RobotArm5DOF\RobotArm5DOF\bin\Debug\RobotArm5DOF.exe
+C:\Users\kutay\Desktop\RobotikOdev\RobotArm5DOF\RobotArm5DOF\bin\Debug\RobotArm5DOF.pdb
+C:\Users\kutay\Desktop\RobotikOdev\RobotArm5DOF\RobotArm5DOF\bin\Debug\OpenTK.dll
+C:\Users\kutay\Desktop\RobotikOdev\RobotArm5DOF\RobotArm5DOF\bin\Debug\OpenTK.pdb
+C:\Users\kutay\Desktop\RobotikOdev\RobotArm5DOF\RobotArm5DOF\bin\Debug\OpenTK.xml
+C:\Users\kutay\Desktop\RobotikOdev\RobotArm5DOF\RobotArm5DOF\obj\Debug\RobotArm5DOF.csproj.CopyComplete
+C:\Users\kutay\Desktop\RobotikOdev\RobotArm5DOF\RobotArm5DOF\obj\Debug\RobotArm5DOF.exe
+C:\Users\kutay\Desktop\RobotikOdev\RobotArm5DOF\RobotArm5DOF\obj\Debug\RobotArm5DOF.pdb

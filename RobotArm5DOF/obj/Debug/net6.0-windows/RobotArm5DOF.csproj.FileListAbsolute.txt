@@ -1,0 +1,5 @@
+C:\Users\kutay\Desktop\RobotikOdev\RobotArm5DOF\RobotArm5DOF\obj\Debug\net6.0-windows\RobotArm5DOF.csproj.AssemblyReference.cache
+C:\Users\kutay\Desktop\RobotikOdev\RobotArm5DOF\RobotArm5DOF\obj\Debug\net6.0-windows\RobotArm5DOF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutay\Desktop\RobotikOdev\RobotArm5DOF\RobotArm5DOF\obj\Debug\net6.0-windows\RobotArm5DOF.AssemblyInfoInputs.cache
+C:\Users\kutay\Desktop\RobotikOdev\RobotArm5DOF\RobotArm5DOF\obj\Debug\net6.0-windows\RobotArm5DOF.AssemblyInfo.cs
+C:\Users\kutay\Desktop\RobotikOdev\RobotArm5DOF\RobotArm5DOF\obj\Debug\net6.0-windows\RobotArm5DOF.csproj.CoreCompileInputs.cache

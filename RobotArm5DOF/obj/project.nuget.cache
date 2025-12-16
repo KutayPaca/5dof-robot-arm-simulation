@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zf93R2suVnKO1WlRliulwdrGNDfmLTeD/XzVy7FCQm2MuPB0MVewxBX4WNVeo6LVAXXfgWSFqpHc0YlzJ5NyzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kutay\\Desktop\\RobotikOdev\\RobotArm5DOF\\RobotArm5DOF\\RobotArm5DOF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kutay\\.nuget\\packages\\opentk\\3.3.3\\opentk.3.3.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'OpenTK 3.3.3' paketi, proje hedef çerçevesi 'net6.0-windows7.0' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "OpenTK",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
